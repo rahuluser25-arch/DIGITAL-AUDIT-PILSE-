@@ -1,0 +1,8 @@
+{
+  "name": "Digital Audit Pulse",
+  "description": "AI-powered digital health audit dashboard generating a 0-100 Pulse Score, six-pillar breakdown, prioritized quick wins, competitor benchmarking, and interactive recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
